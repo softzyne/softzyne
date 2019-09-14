@@ -24,3 +24,8 @@
 .container {
     margin-bottom: 20px;
 }
+
+.center-block {
+    margin-top: 10px;
+    float: none;
+}

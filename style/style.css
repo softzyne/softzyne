@@ -1,0 +1,26 @@
+.navbar {
+    background-color: brown;
+}
+
+.navbar-brand {
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 5px;
+}  
+
+.logo {
+    height: 100px;
+    width: 100px;
+}
+
+.jumbotron {
+    background-image: url("../img/main.jpg")
+}
+
+.head {
+    text-align: center;
+}
+
+.container {
+    margin-bottom: 20px;
+}
